@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "67bb31c809d5b923dc0ea59d"
+  },
+  "name": "kaviya",
+  "age": "30",
+  "position": "Software developer",
+  "salary": "80000",
+  "_class": "com.example.Employee.model.Employee"
+},
+{
+  "_id": {
+    "$oid": "67bb36d5d1ff326e4658ad27"
+  },
+  "name": "kavi",
+  "age": "30",
+  "position": " Engineer",
+  "salary": "8000",
+  "_class": "com.example.Employee.model.Employee"
+},
+{
+  "_id": {
+    "$oid": "67bb36e9d1ff326e4658ad28"
+  },
+  "name": "shiva",
+  "age": "30",
+  "position": " java developer",
+  "salary": "8000",
+  "_class": "com.example.Employee.model.Employee"
+}]
